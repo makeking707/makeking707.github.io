@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://makeking707.github.io/coin-guide-blog/sitemap-index.xml
